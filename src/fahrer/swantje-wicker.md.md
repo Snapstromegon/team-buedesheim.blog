@@ -9,6 +9,7 @@ top10inWM: 0
 image: /assets/img/uploads/swantje.png
 teams:
   - RKB Freestyle Team
+  - SKV Büdesheim
 competitions:
   - Freestyle Einzel Altersklasse
 ---
