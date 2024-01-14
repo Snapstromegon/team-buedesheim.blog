@@ -7,7 +7,7 @@ top3since2022: 0
 top10inWM: 0
 image: assets/img/uploads/kim-cut.png
 teams:
-  - RKB Freestyle Team
+  - SKV Büdesheim
 competitions:
   - Coasting
   - Stillstand
