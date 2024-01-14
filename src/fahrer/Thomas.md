@@ -11,10 +11,6 @@ teams:
   - RKB Freestyle Team
 competitions:
   - IUF Slalom
-  - Hochsprung
-  - Weitsprung
-  - Platform Weitsprung
-  - Platform Hochsprung
   - Anfänger Cross Country
   - Trials
   - Cyclocross
