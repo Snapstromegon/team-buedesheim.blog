@@ -9,6 +9,7 @@ top10inWM: 0
 image: assets/img/uploads/thomas.png
 teams:
   - RKB Freestyle Team
+  - SKV Büdesheim
 competitions:
   - IUF Slalom
   - Anfänger Cross Country
