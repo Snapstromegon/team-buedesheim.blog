@@ -6,7 +6,7 @@ birthday: 1995-12-16T09:05:57.619Z
 wm: 1
 top3since2022: -152
 top10inWM: 0
-image: /assets/img/uploads/swantje.png
+image: /assets/img/uploads/einrad-logo-flächig-weiß-blau.jpg
 teams:
   - RKB Freestyle Team
   - SKV Büdesheim
