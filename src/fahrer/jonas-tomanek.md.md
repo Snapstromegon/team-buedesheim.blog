@@ -12,6 +12,6 @@ teams:
   - RKB Freestyle Team
   - SKV Büdesheim
 competitions:
-  - Freestyle Einzel Altersklasse
   - Freestyle Paar Altersklasse
+  - Freestyle Einzel Expert
 ---
