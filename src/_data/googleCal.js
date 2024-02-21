@@ -21,7 +21,8 @@ const loadCalendar = async (calendarId) => {
     }
   );
   console.log(res);
-  for (const item of res.items.filter(item => item?.start?.dateTime && item?.end?.dateTime)) {
+  res.items = res.items.filter(item => item?.start?.dateTime && item?.end?.dateTime);
+  for (const item of res.items) {
     item.start.dateTime = new Date(item.start.dateTime);
     item.end.dateTime = new Date(item.end.dateTime);
   }
