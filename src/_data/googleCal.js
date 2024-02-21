@@ -22,6 +22,7 @@ const loadCalendar = async (calendarId) => {
   );
   console.log(res);
   for (const item of res.items) {
+    console.log("Item", item, item.start, item.end);
     item.start.dateTime = new Date(item.start.dateTime);
     item.end.dateTime = new Date(item.end.dateTime);
   }
