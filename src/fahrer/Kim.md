@@ -5,7 +5,7 @@ birthday: 2003-07-03T22:00:00.000Z
 wm: 2
 top3since2022: 1
 top10inWM: 1
-image: /assets/img/uploads/einrad-logo-flächig-weiß-blau.jpg
+image: /assets/img/uploads/img_7319.jpg
 teams:
   - SKV Büdesheim
   - RKB Freestyle Team
