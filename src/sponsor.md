@@ -4,7 +4,7 @@ eleventyNavigation:
   key: Werde Sponsor
   order: 5
 ---
-Falls Sie uns unterstüAnfrage Förderung für Einrad-Weltmeisterschaft
+Anfrage Förderung für Einrad-Weltmeisterschaft
 
 
 
@@ -40,4 +40,6 @@ Mit sportlichen Grüßen Ihr Team Büdesheim/MKK
 
 Annabel Jäger-Kec, Anna-Lena Janßen, Jonas Figge, Marvin Janßen, Sarah-Maria Brockhaus
 
-tzen wollen oder Fragen für uns haben, finden Sie unsere Kontaktdaten auf der [Kontaktseite](/kontakt).
+
+
+Falls Sie uns unterstützen wollen oder Fragen für uns haben, finden Sie unsere Kontaktdaten auf der [Kontaktseite](/kontakt).
