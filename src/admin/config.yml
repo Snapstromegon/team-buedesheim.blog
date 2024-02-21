@@ -13,6 +13,14 @@ collections:
             name: "body"
             widget: "markdown"
             "editor_components": ["11tyImage"]
+      - label: "Werde Sponsor"
+        name: "sponsor"
+        file: "src/sponsor.md"
+        fields:
+          - label: "Blog post content"
+            name: "body"
+            widget: "markdown"
+            "editor_components": ["11tyImage"]
 
       - label: "Settings"
         name: "settings"
