@@ -121,6 +121,7 @@ collections:
         name: competitions
         widget: select
         multiple: true
+        optional: true
         options:
           - Hochsprung
           - Weitsprung
