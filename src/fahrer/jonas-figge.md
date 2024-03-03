@@ -14,4 +14,6 @@ teams:
 competitions:
   - Freestyle Paar Altersklasse
   - Freestyle Einzel Expert
+  - X-Style
+  - Freestyle Kleingruppe Expert
 ---
