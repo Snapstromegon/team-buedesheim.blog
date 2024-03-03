@@ -4,7 +4,7 @@ eleventyNavigation:
   key: Werde Sponsor
   order: 5
 ---
-Anfrage Förderung für Einrad-Weltmeisterschaft
+**Anfrage Förderung für Einrad-Weltmeisterschaft**
 
 Sehr geehrte Frau…/ Sehr geehrter Herr…,
 
@@ -14,13 +14,13 @@ Da die Kosten für Startgeld, Unterbringung, Anreise und Logistik jedoch sehr ho
 
 Wir hoffen darauf, dass Sie sich als Förderer einer solchen Aktion sehen und uns Sportlern dabei helfen, unser Ziel zu verwirklichen – es gibt viele Möglichkeiten!
 
-Allgemeine Spende – Das Büdesheimer Einradteam freut sich über jeden Betrag. Denn jede auch noch so kleine Zuwendung unterstützt uns auf unserem Weg in die USA. 
+**Allgemeine Spende** – Das Büdesheimer Einradteam freut sich über jeden Betrag. Denn jede auch noch so kleine Zuwendung unterstützt uns auf unserem Weg in die USA. 
 
-Sponsoring – Wenn Sie uns und den Einradsport längerfristig begleiten möchten, sind wir offen für Vorschläge und Ideen. Werden Sie Teil unseres Teams und erleben Sie Einradsport hautnah. Wir freuen uns darauf, Ihr Unternehmen weltweit repräsentieren zu dürfen. Als Gastgeber der Hessischen Meisterschaft 2024 im Einrad Freestyle laden wir Ihr Unternehmen herzlich ein, sich auf dieser Veranstaltung zu präsentieren. Ein Banner bietet eine hervorragende Gelegenheit.
+**Sponsoring** – Wenn Sie uns und den Einradsport längerfristig begleiten möchten, sind wir offen für Vorschläge und Ideen. Werden Sie Teil unseres Teams und erleben Sie Einradsport hautnah. Wir freuen uns darauf, Ihr Unternehmen weltweit repräsentieren zu dürfen. Als Gastgeber der Hessischen Meisterschaft 2024 im Einrad Freestyle laden wir Ihr Unternehmen herzlich ein, sich auf dieser Veranstaltung zu präsentieren. Ein Banner bietet eine hervorragende Gelegenheit.
 
-Trikotspende – Für unser fünfköpfiges Team steht mit der WM-Teilnahme auch noch die Anschaffung von Sportbekleidung an. Mit einer Werbeanbringung auf den Trikots hätten Sie die Möglichkeit, sich mit einer außergewöhnlichen Sportart national und international und in den Presseberichten der lokalen Tageszeitungen sowie den weiteren Medien zu präsentieren.
+**Trikotspende** – Für unser fünfköpfiges Team steht mit der WM-Teilnahme auch noch die Anschaffung von Sportbekleidung an. Mit einer Werbeanbringung auf den Trikots hätten Sie die Möglichkeit, sich mit einer außergewöhnlichen Sportart national und international und in den Presseberichten der lokalen Tageszeitungen sowie den weiteren Medien zu präsentieren.
 
-Auftritt in Ihrem Unternehmen - Durch zahlreiche Auftritte und Wettkämpfe haben wir bereits Bühnenerfahrung gesammelt. Gerne kommen wir zu Ihnen und ermöglichen Einblicke in den Einradsport.
+**Auftritt in Ihrem Unternehmen** - Durch zahlreiche Auftritte und Wettkämpfe haben wir bereits Bühnenerfahrung gesammelt. Gerne kommen wir zu Ihnen und ermöglichen Einblicke in den Einradsport.
 
 Wir hoffen, ein erstes Interesse geweckt zu haben und freuen uns auf Ihr Feedback.
 
