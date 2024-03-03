@@ -12,6 +12,5 @@ teams:
 competitions:
   - Anfänger Cross Country
   - Cyclocross
-  - Freestyle Großgruppe Expert
   - IUF Slalom
 ---
