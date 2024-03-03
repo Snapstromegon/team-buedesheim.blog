@@ -9,6 +9,5 @@ image: /assets/img/uploads/p1100219.png
 teams:
   - RKB Freestyle Team
   - SKV Büdesheim
-competitions:
-  - X-Style
+competitions: []
 ---
