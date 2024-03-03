@@ -45,7 +45,7 @@ eleventyNavigation:
 <section class="fahrer-cards">
   {%for fahrer in collections.fahrer | sortByStartNo%}
   <a href="{{fahrer.url}}" class="card fahrer card-hover">
-    <h3 class="name">#&thinsp;{{fahrer.data.startNo}} {{ fahrer.data.name }}</h3>
+    <h3 class="name">{%if fahrer.data.startNo == 1000 %}Trainerin{% else %}#&thinsp;{{fahrer.data.startNo}}{% endif %} {{ fahrer.data.name }}</h3>
     <div class="team">
     {%- for team in fahrer.data.teams -%}
     <h4>{{team}}</h4>

@@ -3,7 +3,7 @@ layout: layouts/main.njk
 ---
 
 <div class="card fahrer">
-  <h3 class="name">#&thinsp;{{startNo}} {{ name }}</h3>
+  <h3 class="name">{%if startNo == 1000 %}Trainerin{% else %}#&thinsp;{{startNo}}{% endif %} {{ name }}</h3>
   <div class="team">
   {%- for team in teams -%}
   <h4>{{team}}</h4>
