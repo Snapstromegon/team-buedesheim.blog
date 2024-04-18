@@ -5,4 +5,7 @@ teaserText: >
   Minnesota, USA nehmen fünf SportlerInnen aus Büdesheim teil. Über unsere
   sportlichen Leistungen und Erlebnisse wollen wir Euch in diesem Blog auf dem
   Laufenden halten.
-sponsors: []
+sponsors:
+  - name: Augenoptik Kerschbaumer
+    logo: /assets/img/uploads/kerschbaumer-augenoptik-logo-adressen-komplett-farbig.png
+    url: https://team-buedesheim.blog/
