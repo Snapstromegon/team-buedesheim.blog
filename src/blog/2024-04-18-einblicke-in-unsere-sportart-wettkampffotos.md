@@ -7,4 +7,8 @@ cover: /assets/img/uploads/2023-10-28__17-52-22__tz6_9910.jpg
 
 {% image "/assets/img/uploads/img_7319.jpg", "Anna-Lena Janßen" %}
 
-{% image "undefined", "undefined" %}
+
+
+{% image "/assets/img/uploads/2023-11-12__10-22-17__tz6_7565.jpg", "Marvin Janßen" %}
+
+{% image "/assets/img/uploads/2023-10-29__20-19-01__tz6_3638.jpg", "Annabel Jäger-Kec" %}
