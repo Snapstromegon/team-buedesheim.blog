@@ -5,7 +5,7 @@ cover: /assets/img/uploads/img_3725.jpg
 ---
 {% image "/assets/img/uploads/2023-10-28__17-52-22__tz6_9910.jpg", "Jonas Figge" %}
 
-`align="center"`Jonas Figge
+Jonas Figge
 
 {% image "/assets/img/uploads/img_7319.jpg", "Anna-Lena Janßen" %}
 
