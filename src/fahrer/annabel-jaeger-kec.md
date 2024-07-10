@@ -13,4 +13,5 @@ teams:
 competitions:
   - X-Style
   - Freestyle Paar Altersklasse
+  - IUF Slalom
 ---
