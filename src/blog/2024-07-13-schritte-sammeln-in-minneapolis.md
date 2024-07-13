@@ -18,8 +18,6 @@ Als Nächstes haben wir die Stadt weiter zu Fuß erkundet. Wir entdeckten die Mi
 
 *Minneapolis City Hall*
 
-
-
 {% image "/assets/img/uploads/sportliche-aktivitäten-city-hall.jpg", "Sportliche Aktivitäten vor der Minneapolis City Hall" %}
 
 *Sportliche Aktivitäten vor der Minneapolis City Hall*
@@ -34,7 +32,7 @@ Mit dem nächsten Bus ging es dann zum Sculpture Garden. Abstrakte Figuren konnt
 
 *Riesige wasserspeiende Kirsche*
 
-{% image "/assets/img/uploads/riesige-kirsche.jpg", "Gleichgewichtsübungen im Sculpture Garden" %}
+{% image "/assets/img/uploads/gleichgewichtsübung-sculpture-garden.jpg", "Gleichgewichtsübungen im Sculpture Garden" %}
 
 *Gleichgewichtsübungen im Sculpture Garden*
 
