@@ -1,7 +1,7 @@
 ---
 title: Opening Unicon 21
 abstract: Eröffnung der Unicon 21
-cover: /assets/img/uploads/weltrekordversuch.jpg
+cover: /assets/img/uploads/team-büdeseheim.jpg
 ---
 Heute morgen hat sich die Gruppe nach dem Frühstück im Hotel aufgesplittet. Ein Teil der Gruppe erkundete am Vormittag das Open Gym   und stellten fest, dass der Hallenbadoden aus Holz ist. Somit mussten wir uns erstmal an den Boden gewöhnen, um ordentlich fahren zu können.
 
