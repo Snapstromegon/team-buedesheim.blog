@@ -1,7 +1,7 @@
 ---
 title: 4. Wettkampftag
 abstract: Von neuen Bestzeiten und geglückten Küren
-cover: /assets/img/uploads/annabel-bestzeit.jpg
+cover: /assets/img/uploads/barbie-kleingruppe.jpg
 ---
 Donnerstag, den 18.07.2024
 
