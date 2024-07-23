@@ -1,5 +1,5 @@
 ---
-title: 7. Wettkampftag
+title: 6. Wettkampftag
 abstract: Morgentliche Geburtstagsparty und X-Style
 cover: /assets/img/uploads/annabel-x-style.jpg
 ---
