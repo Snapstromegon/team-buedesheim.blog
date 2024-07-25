@@ -72,7 +72,7 @@ collections:
         optional: true
 
       - { label: "Unveröffentlicht", name: "unpublished", widget: "boolean" }
-      - label: "Cover"
+      - label: "Cover Bild"
         name: "cover"
         widget: "image"
         allow_multiple: false

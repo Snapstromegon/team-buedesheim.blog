@@ -30,6 +30,7 @@ async function imageShortcode(
   sizes = "(min-width: 50rem) 50rem, 100vw",
   lazy = true
 ) {
+  console.log("Generating image", src);
   if (src.startsWith("/")) {
     src = `.${src}`;
   }

@@ -20,7 +20,7 @@ const loadCalendar = async (calendarId) => {
       type: "json",
     }
   );
-  console.log(res);
+  // console.log(res);
   res.items = res.items.filter(item => item?.start?.dateTime && item?.end?.dateTime);
   for (const item of res.items) {
     item.start.dateTime = new Date(item.start.dateTime);
