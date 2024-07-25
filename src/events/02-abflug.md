@@ -2,7 +2,7 @@
 title: Abflug
 date: 2024-07-11
 displayDate: 2023/24
-unpublished: true
+unpublished: false
 cover: /assets/img/uploads/flughafen-frankfurt-gruppe.jpg
 ---
 
