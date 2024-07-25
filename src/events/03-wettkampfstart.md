@@ -1,7 +1,7 @@
 ---
 title: Wettkampfstart
 date: 2024-07-14
-displayDate: 2023/2024
+displayDate: 14.07.2024
 unpublished: false
 cover: /assets/img/uploads/gruppenbild-.jpg
 ---
