@@ -1,7 +1,7 @@
 ---
-title: 10. Wettkampftag
-abstract: Ein neuer Wettkampftag und schon ging es wieder früh raus. Heute stand
-  Cyclocross an.
+title: "10. Wettkampftag "
+abstract: Ein neuer Wettkampftag und schon ging es wieder früh aus dem Bett.
+  Heute stand Cyclocross an.
 cover: /assets/img/uploads/team-büdeseheim2-.jpg
 ---
 Mittwoch, den 24.07.2024
