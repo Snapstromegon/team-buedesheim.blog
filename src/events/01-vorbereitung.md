@@ -5,5 +5,6 @@ displayDate: 2023/24
 unpublished: false
 cover: /assets/img/uploads/koffermunis.jpg
 ---
+Hier gehts zum Blogeintrag dazu:
 
-Das hier ist die Vorbereitung.
+[hier](https://team-buedesheim.blog/blog/2024-07-10-kofferpacken/)
