@@ -1,5 +1,5 @@
 ---
-title: 11. Wettkampftag
+title: Entspannungstag
 abstract: Fotoshooting, Kino und Baden
 cover: /assets/img/uploads/team-germany.jpg
 ---
