@@ -20,7 +20,7 @@ Mittags ging es dann noch für alle, zusammen mit Swantje und Sira vom Team Ober
 
 Nachmittags ging es dann nochmal ins Hotel um sich kurz auszuruhen, bevor wir gemeinsam die Trial Finals im Sanford Center anschauten. Auf dem Rückweg ins Hotel wurde dann noch ein kleiner Stop an den "Paul Bunyan & Babe the Blue Ox Statues" gemacht. 
 
-{% image "/assets/img/uploads/anni-und-bulle.jpg", "Anni an der "Babe the Blue Ox" Statue" %}
+{% image "/assets/img/uploads/anni-und-bulle.jpg", "Anni an der 'Babe the Blue Ox' Statue" %}
 
 *Anni an der "Babe the Blue Ox" Statue*
 
