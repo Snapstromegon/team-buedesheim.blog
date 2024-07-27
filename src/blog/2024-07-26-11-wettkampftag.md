@@ -3,6 +3,8 @@ title: Entspannungstag
 abstract: Fotoshooting, Kino und Baden
 cover: /assets/img/uploads/team-germany.jpg
 ---
+Donnerstag, den 25.07.2024
+
 Der erste Termin des Tages war das Team Germany Foto (Foto im Titelbild von Konstantin Höhne). Leider gab es in der ersten Woche bei all den Wettkämpfen keine Zeit dafür, weshalb erst jetzt am Ende die Zeit dafür blieb. Deswegen sind leider schon viele der deutschen Vereine bereits abgereist. 
 
 {% image "/assets/img/uploads/team-büdeseheim3-.jpg", "Team Büdesheim am Lake Bemidji" %}
